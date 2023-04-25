@@ -1,0 +1,8 @@
+/*
+-- Query: SELECT * FROM myadmin.users
+LIMIT 0, 1000
+
+-- Date: 2023-04-26 05:52
+*/
+INSERT INTO `` (`id`,`username`,`password`) VALUES (1,'admin','123456za');
+INSERT INTO `` (`id`,`username`,`password`) VALUES (2,'admin2','123456');
