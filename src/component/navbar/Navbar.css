@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple');
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+    color: #333;
+    font-weight: 600;
+}
+
+.navbar-brand:hover,
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+.text{
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}

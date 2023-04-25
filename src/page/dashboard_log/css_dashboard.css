@@ -1,0 +1,11 @@
+.bg-dashboard {
+    background-color: rgba(255, 255, 255); /* กำหนดสีพื้นหลัง */
+    border-radius: 10px; /* กำหนดขนาดของมุมโค้ง */
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 50px 30px rgba(0, 0, 0, 0.2);
+    
+}
+
+.text-all{
+    font-Family: Kanit, sans-serif 
+}

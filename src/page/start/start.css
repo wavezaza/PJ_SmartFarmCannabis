@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia&effect=neon|outline|emboss|shadow-multiple');
+
+body{
+    background-color: #4c8c4a;
+}
+.text-font{
+    font-family: "Sofia", sans-serif;
+    font-size: 70px;
+}
